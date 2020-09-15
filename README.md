@@ -1,4 +1,5 @@
 # Object-Oriented-Programming
-A repository of notes on OOP. 
+
+Notes to refer back to for OOP concepts.
 
 source: https://youtu.be/ZDa-Z5JzLYM
